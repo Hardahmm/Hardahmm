@@ -6,9 +6,15 @@
 
 I build Android apps, web apps, and internal tools. I've built five Android apps and released three on Google Play, spanning creator tools, student utilities, and everyday productivity. I'm available for freelance projects, from a first release to improvements on an existing app.
 
-**[Discuss a project](mailto:waytokairo@gmail.com?subject=Freelance%20project%20inquiry)**
+**[Discuss a project](mailto:waytokairo@gmail.com?subject=Freelance%20project%20inquiry)** · [Selected work](#selected-projects)
 
 ## Selected projects
+
+### Opportunity Radar
+
+A market research tool for exploring recent app launches, seeing what ranks across markets, and building a shortlist of ideas to investigate.
+
+**[Visit the Opportunity Radar website and waitlist](https://opportunity-radar-waitlist.vercel.app/)**
 
 ### Android apps on Google Play
 
@@ -20,10 +26,6 @@ I build Android apps, web apps, and internal tools. I've built five Android apps
 
 Two more Android apps are in development, covering habits and focus and a dot-calendar wallpaper.
 
-### Opportunity Radar
-
-An opportunity-discovery project focused on making relevant opportunities easier to find.
-
 ## What I can help you build
 
 - **Android apps and web MVPs** that turn a product idea into a working release people can use.
@@ -32,9 +34,20 @@ An opportunity-discovery project focused on making relevant opportunities easier
 
 ## GitHub activity
 
-[![GitHub followers](https://img.shields.io/github/followers/Hardahmm?style=flat-square&label=GitHub%20followers&color=147D75)](https://github.com/Hardahmm?tab=followers)
+<p align="center">
+  <a href="https://github.com/Hardahmm#js-contribution-activity"><img width="740" src="https://github-readme-activity-graph.vercel.app/graph?username=Hardahmm&amp;custom_title=Contributions%20%7C%20Last%2031%20days&amp;bg_color=10212E&amp;color=B9DEDB&amp;line=6EE5CB&amp;point=F4FBFB&amp;area=true&amp;area_color=147D75&amp;border_color=284854&amp;radius=12" alt="GitHub contributions over the last 31 days" /></a>
+</p>
 
-[View my live contribution history](https://github.com/Hardahmm#js-contribution-activity)
+<p align="center">
+  <a href="https://github.com/Hardahmm#js-contribution-activity"><img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardahmm&amp;background=10212E&amp;border=284854&amp;stroke=284854&amp;ring=6EE5CB&amp;fire=6EE5CB&amp;currStreakNum=F4FBFB&amp;sideNums=F4FBFB&amp;currStreakLabel=6EE5CB&amp;sideLabels=B9DEDB&amp;dates=B9DEDB&amp;border_radius=12" alt="Total GitHub contributions, current streak, and longest streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hardahmm?tab=followers"><img src="https://img.shields.io/github/followers/Hardahmm?style=flat-square&amp;label=GitHub%20followers&amp;labelColor=10212E&amp;color=147D75" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hardahmm&amp;label=Profile%20views&amp;style=flat-square&amp;color=147D75" alt="Profile views counted by the badge" />
+</p>
+
+[View my GitHub contribution history](https://github.com/Hardahmm#js-contribution-activity)
 
 ## Work with me
 
