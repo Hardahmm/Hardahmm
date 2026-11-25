@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title">
+<title id="title">Harsh Joshi — Web apps, dashboards, and workflow tools</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f30"/><stop offset="1" stop-color="#102e35"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" fill="none" stroke="#539997" stroke-opacity=".17"/></pattern>
+</defs>
+<rect width="960" height="240" rx="20" fill="url(#bg)"/>
+<path d="M575 0h365a20 20 0 0 1 20 20v200a20 20 0 0 1-20 20H575z" fill="url(#grid)"/>
+<path d="M52 51h54" stroke="#6ee5cb" stroke-width="4" stroke-linecap="round"/>
+<text x="52" y="124" fill="#f4fbfb" font-family="Verdana, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Harsh Joshi</text>
+<text x="55" y="171" fill="#b9dedb" font-family="Verdana, sans-serif" font-size="22">Web apps, dashboards, and workflow tools</text>
+<g fill="none" stroke-linejoin="round">
+  <path d="M756 43l121 66-121 66-121-66z" fill="#12323b" stroke="#519d9a" stroke-width="2"/>
+  <path d="M635 109v32l121 66 121-66v-32M756 175v32" stroke="#519d9a" stroke-width="2"/>
+  <path d="M695 107l39 19 42-37 41 13" stroke="#6ee5cb" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g fill="#6ee5cb"><circle cx="695" cy="107" r="5"/><circle cx="734" cy="126" r="5"/><circle cx="776" cy="89" r="5"/><circle cx="817" cy="102" r="5"/></g>
+</svg>
