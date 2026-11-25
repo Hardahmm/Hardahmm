@@ -4,25 +4,31 @@
 
 # Harsh Joshi
 
-I build web apps and internal tools for teams that need a usable first release or a better way to run a daily workflow. I’m available for freelance projects, from scoped prototypes to improvements on existing apps.
+I build Android apps, web apps, and internal tools. I've built five Android apps and released three on Google Play, spanning creator tools, student utilities, and everyday productivity. I'm available for freelance projects, from a first release to improvements on an existing app.
 
-**[Discuss a project](mailto:waytokairo@gmail.com?subject=Freelance%20project%20inquiry)** · [See my repositories](https://github.com/Hardahmm?tab=repositories)
+**[Discuss a project](mailto:waytokairo@gmail.com?subject=Freelance%20project%20inquiry)**
+
+## Selected projects
+
+### Android apps on Google Play
+
+| App | What it does |
+| --- | --- |
+| [NapWell — Power Nap Timer](https://play.google.com/store/apps/details?id=com.napwell.napwell) | A timer designed for short power naps. |
+| [ClipFlow — Script & Teleprompter](https://play.google.com/store/apps/details?id=com.creators.clipflow) | A script and teleprompter app for creators recording video. |
+| [AttendEase — Attendance Bunk](https://play.google.com/store/apps/details?id=com.attendease.bunksmart) | Helps students track class attendance and plan around attendance requirements. |
+
+Two more Android apps are in development, covering habits and focus and a dot-calendar wallpaper.
+
+### Opportunity Radar
+
+An opportunity-discovery project focused on making relevant opportunities easier to find.
 
 ## What I can help you build
 
-- **Web app MVPs** that turn a product idea into a working flow you can demo and test.
+- **Android apps and web MVPs** that turn a product idea into a working release people can use.
 - **Dashboards and internal tools** that put routine decisions, data, and actions in one place.
 - **Frontend improvements** that make an existing interface clearer and easier to use across screen sizes.
-
-## Selected work
-
-| Project | What you can inspect |
-| --- | --- |
-| [Voicehacker](https://github.com/Hardahmm/Voicehacker) | A Next.js project showing how I structure a React application. |
-| [Restroos](https://github.com/Hardahmm/restroos) | A frontend project built with React and Vite. |
-| [AttendEase Web](https://github.com/Hardahmm/attendeaseweb) | The web project source and commit history. |
-
-**Tools in these projects** · React · Next.js · Vite
 
 ## GitHub activity
 
